@@ -1,6 +1,6 @@
-PWD c:\Users\niels\Documents\GitHub\Tyv-Regler
+PWD c:\Users\niels\Documents\GitHub\Politikeren-Regler
 INPUT C:\Users\niels\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\niels\Documents\GitHub\Tyv-Regler\main.tex
+INPUT c:\Users\niels\Documents\GitHub\Politikeren-Regler\main.tex
 OUTPUT main.log
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -491,10 +491,75 @@ INPUT mainstuff\Niv1.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT mainstuff\Evner\Indkomst.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 1.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 1.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 1.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Elvisk.tex
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
+INPUT .\setup\Alfabeter\Elvisk alfabet.pdf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
+INPUT ..\Evne-Ordbog\Rygtespreder\Rygtespreder Niv 1.tex
+INPUT ..\Evne-Ordbog\Rygtespreder\Rygtespreder Niv 1.tex
+INPUT ..\Evne-Ordbog\Rygtespreder\Rygtespreder Niv 1.tex
+INPUT .\mainstuff\Niv2.tex
+INPUT .\mainstuff\Niv2.tex
+INPUT .\mainstuff\Niv2.tex
+INPUT .\mainstuff\Niv2.tex
+INPUT mainstuff\Niv2.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT ..\Evne-Ordbog\Helbred sår.tex
+INPUT ..\Evne-Ordbog\Helbred sår.tex
+INPUT ..\Evne-Ordbog\Helbred sår.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 2.tex
+INPUT ..\Evne-Ordbog\Lommetyveri\Lommetyveri Niv. 1.tex
+INPUT ..\Evne-Ordbog\Lommetyveri\Lommetyveri Niv. 1.tex
+INPUT ..\Evne-Ordbog\Lommetyveri\Lommetyveri Niv. 1.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Påfør Gift.tex
+INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
+INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
+INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
+INPUT .\mainstuff\Niv3.tex
+INPUT .\mainstuff\Niv3.tex
+INPUT .\mainstuff\Niv3.tex
+INPUT .\mainstuff\Niv3.tex
+INPUT mainstuff\Niv3.tex
+INPUT ..\Evne-Ordbog\Indgyd mod.tex
+INPUT ..\Evne-Ordbog\Indgyd mod.tex
+INPUT ..\Evne-Ordbog\Indgyd mod.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
+INPUT ..\Evne-Ordbog\Investorer\Investorer Niv 3.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 1.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 1.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 1.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
@@ -521,76 +586,29 @@ INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary9.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary7.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary5.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
-INPUT .\mainstuff\Evner\Lommetyveri Niv. 1.tex
-INPUT .\mainstuff\Evner\Lommetyveri Niv. 1.tex
-INPUT mainstuff\Evner\Lommetyveri Niv. 1.tex
-INPUT .\mainstuff\Niv2.tex
-INPUT .\mainstuff\Niv2.tex
-INPUT .\mainstuff\Niv2.tex
-INPUT .\mainstuff\Niv2.tex
-INPUT mainstuff\Niv2.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT .\mainstuff\Evner\Ekstra NK Niv. 1.tex
-INPUT .\mainstuff\Evner\Ekstra NK Niv. 1.tex
-INPUT mainstuff\Evner\Ekstra NK Niv. 1.tex
-INPUT .\mainstuff\Evner\Lommetyveri Niv. 2.tex
-INPUT .\mainstuff\Evner\Lommetyveri Niv. 2.tex
-INPUT mainstuff\Evner\Lommetyveri Niv. 2.tex
-INPUT .\mainstuff\Evner\Torturens Vidunder.tex
-INPUT .\mainstuff\Evner\Torturens Vidunder.tex
-INPUT .\mainstuff\Evner\Torturens Vidunder.tex
-INPUT .\mainstuff\Evner\Torturens Vidunder.tex
-INPUT mainstuff\Evner\Torturens Vidunder.tex
-INPUT .\mainstuff\Niv3.tex
-INPUT .\mainstuff\Niv3.tex
-INPUT .\mainstuff\Niv3.tex
-INPUT .\mainstuff\Niv3.tex
-INPUT mainstuff\Niv3.tex
-INPUT .\mainstuff\Evner\Påfør Gift.tex
-INPUT .\mainstuff\Evner\Påfør Gift.tex
-INPUT mainstuff\Evner\Påfør Gift.tex
-INPUT .\mainstuff\Evner\Smidighed.tex
-INPUT .\mainstuff\Evner\Smidighed.tex
-INPUT .\mainstuff\Evner\Smidighed.tex
-INPUT .\mainstuff\Evner\Smidighed.tex
-INPUT mainstuff\Evner\Smidighed.tex
-INPUT .\mainstuff\Evner\Snigmord Niv. 1.tex
-INPUT .\mainstuff\Evner\Snigmord Niv. 1.tex
-INPUT mainstuff\Evner\Snigmord Niv. 1.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT mainstuff\Niv4.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT .\mainstuff\AlkymiNiv1.tex
-INPUT mainstuff\AlkymiNiv1.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT .\mainstuff\AlkymiNiv2.tex
-INPUT mainstuff\AlkymiNiv2.tex
-INPUT .\setup\GenerelleEvnerIngenMagiKampMedTohånds.tex
-INPUT .\setup\GenerelleEvnerIngenMagiKampMedTohånds.tex
-INPUT .\setup\GenerelleEvnerIngenMagiKampMedTohånds.tex
-INPUT .\setup\GenerelleEvnerIngenMagiKampMedTohånds.tex
-INPUT setup\GenerelleEvnerIngenMagiKampMedTohånds.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 2.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 2.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 2.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 3.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 3.tex
+INPUT ..\Evne-Ordbog\Kirkeskat\Kirkeskat Niv 3.tex
+INPUT ..\Evne-Ordbog\Triage.tex
+INPUT ..\Evne-Ordbog\Triage.tex
+INPUT ..\Evne-Ordbog\Triage.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Generelle evner - IngenMagiIngenTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Generelle evner - IngenMagiIngenTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Generelle evner - IngenMagiIngenTohånds.tex
 INPUT .\setup\Evner\6SansNiv1.tex
 INPUT .\setup\Evner\6SansNiv1.tex
 INPUT .\setup\Evner\6SansNiv1.tex
@@ -616,11 +634,6 @@ INPUT .\setup\Evner\Bære Person.tex
 INPUT .\setup\Evner\Bære Person.tex
 INPUT .\setup\Evner\Bære Person.tex
 INPUT setup\Evner\Bære Person.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT .\setup\Evner\Kamp Med Tohåndsvåben.tex
-INPUT setup\Evner\Kamp Med Tohåndsvåben.tex
 INPUT .\setup\Evner\Førstehjælp.tex
 INPUT .\setup\Evner\Førstehjælp.tex
 INPUT .\setup\Evner\Førstehjælp.tex
@@ -652,14 +665,14 @@ INPUT .\setup\Evner\Slagsbror Niv 2.tex
 INPUT .\setup\Evner\Slagsbror Niv 2.tex
 INPUT .\setup\Evner\Slagsbror Niv 2.tex
 INPUT setup\Evner\Slagsbror Niv 2.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT .\setup\Evner\Slagsbror Niv 3.tex
 INPUT .\setup\Evner\Slagsbror Niv 3.tex
 INPUT .\setup\Evner\Slagsbror Niv 3.tex
 INPUT .\setup\Evner\Slagsbror Niv 3.tex
 INPUT setup\Evner\Slagsbror Niv 3.tex
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT .\setup\Evner\Speciale.tex
 INPUT .\setup\Evner\Speciale.tex
 INPUT .\setup\Evner\Speciale.tex
@@ -670,15 +683,6 @@ INPUT .\setup\Evner\Urtesamler.tex
 INPUT .\setup\Evner\Urtesamler.tex
 INPUT .\setup\Evner\Urtesamler.tex
 INPUT setup\Evner\Urtesamler.tex
-INPUT .\mainstuff\Drikke.tex
-INPUT .\mainstuff\Drikke.tex
-INPUT mainstuff\Drikke.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 OUTPUT main.thm
 INPUT main.aux
 INPUT .\main.out

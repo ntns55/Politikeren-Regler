@@ -1,14 +1,16 @@
 \chapter*{Niveau 1}
 \addcontentsline{toc}{chapter}{Niveau 1}
-Du prøver at få penge for at overleve. Dette har ledt dig til den eneste løsning, du har kunnet finde, tyveri. Med dine hurtige hænder får du nok, til at kunne brødføde dig selv.
+Du har måske nogle få kontakter som du kan tage fat på. De er ikke placeret specielt højt i fødekæden, og det er nok mere vennetjenester end egentlige kontakter, men du er godt på vej.
 \begin{table}[H]
     \centering
     \begin{tabular}{|p{0.50\textwidth}|p{0.25\textwidth}|}
     \rowcolor{cerulean!80}\hline
         Evne navn & Pris i XP \\\hline
-         Dirke låse Niv. 1 & 1 \\\hline
-         Indkomst & 2 \\\hline
-         Lommetyveri Niv. 1 & 1\\
+         Akademiske Kontakter Niv. 1 & 1 \\\hline
+         Gruppestifter Niv. 1 & 1 \\\hline
+         Investorer Niv. 1 & 1\\\hline
+         Læse og skrive - Elvisk & 1\\\hline
+         Rygtespreder Niv. 1 & 1 \\
          \hline
     \end{tabular}
 \end{table}
@@ -17,11 +19,56 @@ Du prøver at få penge for at overleve. Dette har ledt dig til den eneste løsn
 \section*{Evne beskrivelse}
 \addcontentsline{toc}{section}{Evne beskrivelse}
 
-\subsection*{Dirke låse Niv. 1}
-\addcontentsline{toc}{subsection}{Dirke låse Niv. 1}
-Du kan nu Dirke låse af niveau 1. Dette tager 5 minutter pr. lås.\\
-\emph{Bemærk, at denne evne ikke gør, at du kan åbne andre typer låse, såsom niveau 2 eller niveau 3.}\\
+\subsection*{Akademiske Kontakter niv 1}
+\addcontentsline{toc}{subsection}{Akademiske Kontakter niv 1}
 
-\input{mainstuff/Evner/Indkomst.tex}
+Akademiske Kontakter repræsenterer din indflydelse i Kalish. Som en højt respekteret diplomat kan du trække på dine forbindelser, tilgængelige ressourcer og snedige metoder for at nå dine mål.\\
+Når du vælger denne evne, skal du vælge hvilke 3 stier der repræsentere din politiske vej:
+\begin{itemize}    
+    \item Brutalitet
+    \item Diplomati
+    \item Kirken
+    \item Luskeri 
+    \item Viden 
+\end{itemize}
+Du starter med disse tre veje i niveau 1. Ønsker du at øge et af dem til niveau 2 eller højere, skal du købe det næste niveau af denne evne. Du kan dog købe denne evne igen, og få en sti mere du ikke allerede har valgt. Du kan blive ved med at købe denne evne indtil du har alle stier.\\
 
-\input{mainstuff/Evner/Lommetyveri Niv. 1}
+\textbf{Specifikke valg:}\\
+\textbf{Diplomati:} Vælg ét land uden for A’kastin. Dette valg er permanent og repræsenterer det land, du er tilknyttet som diplomat.\\
+\textbf{Kirken:} Vælg én religion. Dette valg er ligeledes permanent og repræsenterer den kirke, du har opbygget forbindelser til.\\
+
+\textbf{Brug af evnen:}\\
+Hvert niveau af Akademiske Kontakter giver dig én tjeneste pr. spilgang, svarende til niveauet. Tjenesterne er midlertidige og gælder kun for den pågældende spilgang. Her er nogle eksempler på hvad en tjeneste fra den relevante sti kan bruges til i niveau 1:\\
+\begin{itemize}
+    \item Brutalitet: Du kan finde ud af hvilke personer er eftersøgt i dit område, og hvad folk er villige til at slå ihjel for at få.
+    \item Diplomati: Du har opnået indflydelse med et land. Dette kan betyde, at du har kontakter i form af lokale politikere, borgmestre, eller ledere af landsbyråd. De tjenester, du kan få her, kan eksempelvis omfatte smårettelser i lokale lovgivninger, tilladelse til at organisere begivenheder, eller mindre hjælp i form af information om lokalpolitik og økonomi.
+    \item Kirken: Du har fået forbindelse til ledere af en religion på lokalt niveau, f.eks. præster, dekaner i mindre sogne, eller lokale shamaner for en ånd. Tjenester fra dem kan omfatte religøse skrifter, som kan understøtte dine argumenter, mindre midlertidige skriftruller, hellige våben ovs.
+    \item Luskeri: Du kan bestikke lavt stående kontaktpersoner til at give dig bestemte rygter.
+    \item Viden: Du kan efterspørge et dokumenter om viden på organisationer og deres generelle planer.
+\end{itemize}
+
+\subsection*{Gruppestifter Niv. 1}
+\addcontentsline{toc}{subsection}{Gruppestifter Niv. 1}
+
+Effekt: Diplomaten får evnen til at danne en faktion, som bringer medlemmerne visse fordele.\\
+Faktionsbonusser:\\
+Ekstra Mønter: Alle faktionens medlemmer modtager en bonus på 1d4 ekstra mønter ved indcheck til spillet som en del af faktionens ressourcer.\\
+Territoriebonus: Faktionens medlemmer får +1 ekstra livspoint (LP), når de kæmper inden for deres eget territorie. Territoriet afgrænses af en fane med faktionens ikon, placeret af diplomaten. Denne fane skaber en radius på 20 meter omkring sig, som tæller som faktionens territorie.\\
+Professionsspecifikke Buffs: Når faktionens medlemmer befinder sig på faktionens territorie, modtager de professionsspecifikke bonusser som styrker deres evner. Disse bonusser gives afhængigt af professionen:
+\begin{itemize}
+    \item Kriger: Får +1 ekstra LP i kamp (ud over bonus fra Niveau 1 af Gruppestifter).
+    \item Smed: Kan reparere halvdelen RP (rundet ned) på en persons rustning på 30 sekunder med personen stadig i rustningen. Dette kan gøres i kamp, men følger ellers reglerne for reparation af rustning. Dette kan gøres 2 gange per spilgang.
+    \item Helbreder: Har mulighed for at helbrede 2 LP på en bevidstløs person under kamp. Denne person kan nu kæmpe igen (men ikke huske, så du skal nok lige forklare ham hvorfor han skal ud og smækkes igen)
+\end{itemize}
+
+Territoriebegrænsninger:\\
+Faneplacering: Fanen med faktionens ikon må kun placeres af diplomaten og kan kun flyttes én gang yderligere per spilgang, efter at den første placering er valgt.\\
+Ingen Overlapping: Faktionens territorie må ikke overlappe med andre territorier. Hvis en anden faktion allerede har territorie i samme område, kan fanen ikke placeres, og diplomaten må finde en anden placering.\\
+Krav for Faktionsidentifikation:\\
+Ikon og Kostume: For at modtage bonusserne fra Gruppestifter skal alle medlemmer tydeligt vise faktionens symbol som en del af deres kostume. Dette kan være gennem tabarder, kapper, eller emblemmonteringer (for eksempel på brystet eller bæltet). Faktionens symbol skal være tydeligt og let genkendeligt – diskrete markeringer som små smykker eller skjulte symboler er ikke tilstrækkelige.\\
+
+\input{../Evne-Ordbog/Investorer/Investorer Niv 1.tex}
+
+\input{../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex}
+
+\input{../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex}
