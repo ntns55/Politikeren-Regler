@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  5 AUG 2025 05:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  6 AUG 2025 06:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1125,7 +1125,7 @@ Package hyperref Info: Link coloring ON on input line 30.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=179, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=176, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 33.
@@ -1239,7 +1239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--71
 (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 pdfTeX warning: pdflatex (file ./setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<setup/Alfabeter/Elvisk alfabet.pdf, id=267, 495.14487pt x 82.34865pt>
+<setup/Alfabeter/Elvisk alfabet.pdf, id=263, 495.14487pt x 82.34865pt>
 File: setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: setup/Alfabeter/Elvisk alfabet.pdf  used on input line 6.
@@ -1280,7 +1280,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--58
 
  []
 
-(../Evne-Ordbog/Lommetyveri/Lommetyveri Niv. 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/Reparere rustning Niv. 1.tex)) (mainstuff/Niv3.tex
+(../Evne-Ordbog/Påfør gift.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--60
+
+ []
+
+(../Evne-Ordbog/Lommetyveri/Lommetyveri Niv. 1.tex) (../Evne-Ordbog/Reparere rustning Niv. 1.tex)) (mainstuff/Niv3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
@@ -1292,15 +1297,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 [12]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 22.
+(hyperref)                be the same. Added a new anchor on input line 21.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
@@ -1311,25 +1316,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
 ]
 
-[14] (../Evne-Ordbog/Indgyd mod.tex) (../Evne-Ordbog/Investorer/Investorer Niv 3.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--70
+[14] (../Evne-Ordbog/Indgyd mod.tex) (../Evne-Ordbog/Investorer/Investorer Niv 3.tex)) (mainstuff/Niv4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
 
-(../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 1.tex
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 2.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 2.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 2.
-)) (mainstuff/Niv4.tex
+
 
 [15]
 
@@ -1351,11 +1343,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 [16
 
 
-] (../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 2.tex) (../Evne-Ordbog/Kirkeskat/Kirkeskat Niv 3.tex
+] (../Evne-Ordbog/Investorer/Investorer Niv 4.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--53
 
-[17]) (../Evne-Ordbog/Triage.tex)) (../Evne-Ordbog/GenerelleEvner/Generelle evner - IngenMagiIngenTohånds.tex
+ []
 
-[18] (setup/Evner/6SansNiv1.tex
+(../Evne-Ordbog/Investorer/Investorer Niv 5.tex
+
+[17])
+Underfull \hbox (badness 10000) in paragraph at lines 3--55
+
+ []
+
+(../Evne-Ordbog/Triage.tex)) (../Evne-Ordbog/GenerelleEvner/Generelle evner - IngenMagiIngenTohånds.tex
+
+[18]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 27.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 27.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 27.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 27.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 27.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 27.
+ (setup/Evner/6SansNiv1.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
@@ -1423,20 +1438,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 112D66F3C790EB4C3CF97E594EBFFAD3;7356.
+(rerunfilecheck)             Checksum: 5FF5AD37FB1F788AE68618970D82165E;7226.
  ) 
 Here is how much of TeX's memory you used:
- 33944 strings out of 468149
- 643863 string characters out of 5431082
+ 33933 strings out of 468149
+ 643301 string characters out of 5431082
  1072932 words of memory out of 5000000
- 61725 multiletter control sequences out of 15000+600000
+ 61722 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  104i,17n,104p,916b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (23 pages, 4360211 bytes).
+Output written on main.pdf (23 pages, 4358815 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 496 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
 

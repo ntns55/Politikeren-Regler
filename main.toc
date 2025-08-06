@@ -13,8 +13,8 @@
 \contentsline {subsection}{Gruppestifter Niv. 2}{10}{section*.9}%
 \contentsline {subsection}{Helbred Sår}{11}{section*.9}%
 \contentsline {subsection}{Investorer Niv. 2}{11}{section*.9}%
+\contentsline {subsection}{Kemisk våben}{11}{section*.9}%
 \contentsline {subsection}{Lommetyveri Niv. 1}{11}{section*.9}%
-\contentsline {subsection}{Påfør gift}{11}{section*.9}%
 \contentsline {subsection}{Reparere rustning Niv. 1}{12}{section*.9}%
 \contentsline {chapter}{Niveau 3}{13}{chapter*.10}%
 \contentsline {section}{Evne beskrivelse}{13}{table.caption.11}%
@@ -24,15 +24,14 @@
 \contentsline {subsection}{Gruppestifter Niv. 3}{14}{section*.12}%
 \contentsline {subsection}{Indgyd Mod}{15}{section*.12}%
 \contentsline {subsection}{Investorer Niv. 3}{15}{section*.12}%
-\contentsline {subsection}{Kirkeskat Niv. 1}{15}{section*.12}%
 \contentsline {chapter}{Niveau 4}{16}{chapter*.13}%
 \contentsline {section}{Evne beskrivelse}{16}{table.caption.14}%
 \contentsline {subsection}{Akademiske Kontakter Niv. 4}{16}{section*.15}%
 \contentsline {subsection}{Diplomatisk magt Niv. 2}{17}{section*.15}%
 \contentsline {subsection}{Glemte kontakter}{17}{section*.15}%
 \contentsline {subsection}{Guld for Magt}{17}{section*.15}%
-\contentsline {subsection}{Kirkeskat Niv. 2}{18}{section*.15}%
-\contentsline {subsection}{Kirkeskat Niv. 3}{18}{section*.15}%
+\contentsline {subsection}{Investorer Niv. 4}{18}{section*.15}%
+\contentsline {subsection}{Investorer Niv. 5}{18}{section*.15}%
 \contentsline {subsection}{Social Kamæleon}{18}{section*.15}%
 \contentsline {subsection}{Triage}{18}{section*.15}%
 \contentsline {chapter}{Generelle evner}{19}{chapter*.16}%
